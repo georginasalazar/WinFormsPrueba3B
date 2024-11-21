@@ -1,0 +1,16 @@
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\bin\Debug\net6.0-windows\WinFormsPrueba3B.exe
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\bin\Debug\net6.0-windows\WinFormsPrueba3B.deps.json
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\bin\Debug\net6.0-windows\WinFormsPrueba3B.runtimeconfig.json
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\bin\Debug\net6.0-windows\WinFormsPrueba3B.dll
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\bin\Debug\net6.0-windows\WinFormsPrueba3B.pdb
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\obj\Debug\net6.0-windows\WinFormsPrueba3B.Form1.resources
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\obj\Debug\net6.0-windows\WinFormsPrueba3B.csproj.GenerateResource.cache
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\obj\Debug\net6.0-windows\WinFormsPrueba3B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\obj\Debug\net6.0-windows\WinFormsPrueba3B.AssemblyInfoInputs.cache
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\obj\Debug\net6.0-windows\WinFormsPrueba3B.AssemblyInfo.cs
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\obj\Debug\net6.0-windows\WinFormsPrueba3B.csproj.CoreCompileInputs.cache
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\obj\Debug\net6.0-windows\WinFormsPrueba3B.dll
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\obj\Debug\net6.0-windows\refint\WinFormsPrueba3B.dll
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\obj\Debug\net6.0-windows\WinFormsPrueba3B.pdb
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\obj\Debug\net6.0-windows\WinFormsPrueba3B.genruntimeconfig.cache
+C:\Users\gsp_g\source\repos\WinFormsPrueba3B\obj\Debug\net6.0-windows\ref\WinFormsPrueba3B.dll
